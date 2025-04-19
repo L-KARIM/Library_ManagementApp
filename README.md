@@ -42,8 +42,8 @@ A streamlined library management application built with Streamlit and Python, im
 
 ## 📸 Screenshots
 
-![Library Dashboard](/screenshots/dashboard.png)
-![Book Management](/screenshots/management.png)
+![Library Dashboard]
+![Book Management]
 ![Search Functionality](/screenshots/search.png)
 
 ## 🔍 Code Structure
@@ -76,7 +76,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-[Your Name] - [Your LinkedIn Profile]
+KARIM LAAFIF - www.linkedin.com/in/l-karim
+
 
 ---
 
